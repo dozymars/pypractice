@@ -1,0 +1,13 @@
+enter_info = input("what is your name:")
+print("my name is" " "+ enter_info)
+
+
+get_input = input("what is your name:")
+received = f"my name is {get_input}"
+
+print(received)
+
+
+
+
+
